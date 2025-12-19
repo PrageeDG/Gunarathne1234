@@ -175,27 +175,38 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gunarathne1234&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PrageeDG&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
+  />
 </p>
 
-<h3 align="center">🔥 GitHub Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunarathne1234&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 <h3 align="center">📈 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunarathne1234&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<h3 align="center">📅 GitHub Activity Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunarathne1234&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrageeDG&layout=compact&theme=tokyonight&langs_count=8" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" 
+    />
+    <img 
+      alt="github contribution snake animation" 
+      src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" 
+    />
+  </picture>
+</p>
+
